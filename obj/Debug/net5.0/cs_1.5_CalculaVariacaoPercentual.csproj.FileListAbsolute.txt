@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\bin\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.exe
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\bin\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.deps.json
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\bin\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.runtimeconfig.json
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\bin\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.runtimeconfig.dev.json
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\bin\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.dll
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\bin\Debug\net5.0\ref\cs_1.5_CalculaVariacaoPercentual.dll
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\bin\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.pdb
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\obj\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.csprojAssemblyReference.cache
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\obj\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\obj\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\obj\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.AssemblyInfo.cs
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\obj\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\obj\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.dll
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\obj\Debug\net5.0\ref\cs_1.5_CalculaVariacaoPercentual.dll
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\obj\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.pdb
+E:\GitHub\cs_1.5_CalculaVariacaoPercentual\obj\Debug\net5.0\cs_1.5_CalculaVariacaoPercentual.genruntimeconfig.cache
